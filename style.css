@@ -1,0 +1,15 @@
+body { 
+    padding: 30px 400px;
+}
+
+header, section {
+    border-bottom: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin-left: 150px;
+}
